@@ -1,2 +1,9 @@
-# mini-port-scanner-hub-86
-A simple port scanner project
+# Port Scanner
+
+A simple port scanner project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
